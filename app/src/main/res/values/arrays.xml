@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefix">
+        <item>Sr.</item>
+        <item>Sra.</item>
+        <item>Srta.</item>
+    </string-array>
+    <string-array name="flyes">
+        <item>Madrid</item>
+        <item>París</item>
+        <item>Málaga</item>
+        <item>New York</item>
+        <item>Narita</item>
+        <item>Estocolmo</item>
+        <item>Amsterdam</item>
+        <item>Roma</item>
+        <item>New Zealand</item>
+    </string-array>
+</resources>

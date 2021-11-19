@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Aerolinea DM</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nameLabel">Nombre:</string>
+    <string name="surnameLabel">Apellidos:</string>
+    <string name="nameEnterprise">Norwegian</string>
+    <string name="logoDesc">logo</string>
+    <string name="labelAddress">Direccion:</string>
+    <string name="labelPhone">Número de teléfono:</string>
+    <string name="labelEmail">Email:</string>
+    <string name="labelDisabled">Movilidad Reducida:</string>
+    <string name="rdInputDiscParc">Parcial</string>
+    <string name="rdInputDiscSin">Sin</string>
+    <string name="rdInputComp">Completa</string>
+    <string name="sv_PrimeraClase">Primera Clase</string>
+    <string name="labelAV">Servicios Adicionales:</string>
+    <string name="sv_Ventanilla">Ventanilla</string>
+    <string name="sv_Dietas">Dietas incluidas</string>
+    <string name="sv_Mascotas">Mascota</string>
+    <string name="descSeguroAdicional">El seguro adicional de viaje te permite asegurar tu equipaje a un valor de hasta 500€ en caso de perdida además de un seguro de vida en caso de accidente. Su precio es de 20€ adicionales al coste final.</string>
+    <string name="labelEnsurance">Seguro de Viaje:</string>
+    <string name="EnsuranceYEs">Sí, quiero viajar con seguro adicional</string>
+    <string name="ensuranceNo">No, estoy bien así.</string>
+    <string name="termsLabel">Acepto los terminos y condiciones</string>
+    <string name="descSep">separator</string>
+    <string name="btnExtra">Button</string>
+    <string name="btnCompraNormal">Compra Normal</string>
+    <string name="labelOrigen_destino">Origen / Destino</string>
+    <string name="inputHintOrigen">Fecha</string>
+    <string name="inputHintiDestino">Destino</string>
+    <string name="label_fecha_origen_destino">Fecha</string>
+    <string name="destino">Destino</string>
+    <string name="premium_buy_button">PREMIUM</string>
+    <string name="origen">Origen</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="continuar">Continuar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
